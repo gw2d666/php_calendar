@@ -1,0 +1,46 @@
+.input-info {
+			display: block;
+			color: darkred;
+			background: orange;
+			width: 90%;
+			padding-left: 10%;
+			padding-top: 2px;
+			padding-bottom: 2px;
+		}
+		.head {
+			display:block;
+			width:70%;
+			padding-left: 30%;
+			
+		}
+		.day-bar {
+			margin: 10px;
+		}
+		.day-bar h2 {
+			display: inline-block;
+			width: 140px;
+			margin: 11px;
+			font-size: 15px;
+		}
+		
+		.norm,
+		.prev,
+		.next {
+			margin:10px;
+			display: inline-block;
+			width: 140px;
+			height: 140px;
+			border: 1px solid #000;
+			background-color: lightgrey;
+			overflow: hidden;
+		}
+		.norm {
+			background: white;
+		}
+		h3 {
+			font-size: 14px;
+			border-bottom: 1px solid grey;
+		}
+		.task {
+			font-size: 12px;
+		}
